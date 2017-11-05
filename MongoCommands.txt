@@ -1,0 +1,7 @@
+sudo service mongod start
+sudo service mongod stop
+sudo service mongod restart
+
+
+/var/lib/mongodb -> data files
+check in /var/log/mongodb/mongod.log -> mongo is running or not

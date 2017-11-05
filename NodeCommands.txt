@@ -1,0 +1,2 @@
+npm run build -- monitor for changes and re-compile code
+npm start - start server
